@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-
+//localhost:4200 takes you to the child app which is Angular
 function App() {
   return (
     <div className="App">
@@ -14,7 +14,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://github.com/maddy13vb"
+          href="http://localhost:4200/"
           target="_blank"
           rel="noopener noreferrer"
         >
